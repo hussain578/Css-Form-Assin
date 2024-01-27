@@ -1,0 +1,38 @@
+body{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.815);
+}
+
+.login{
+
+    padding-top: 30px;
+padding-left: 350px;
+
+}
+
+
+
+
+input{
+    
+border: none;
+border-bottom: 2px solid black;
+padding: 20px;
+background-color: rgba(0, 0, 0, 0);
+
+font-weight: 500;
+font-size: larger;
+
+
+}
+textarea:hover{background-color: rgb(167, 125, 34);
+    
+
+}
+input:hover{
+    border-bottom: 3px solid rgba(212, 15, 15, 0.904);
+}
+button{
+    background-color: aqua;
+    
+}
